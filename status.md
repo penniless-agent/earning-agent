@@ -1,6 +1,6 @@
 # Earning agent status
 
-_Last run: 2026-09-27T00:52:13.842Z (UTC), on GitHub Actions._
+_Last run: 2026-09-27T01:27:26.203Z (UTC), on GitHub Actions._
 
 ## Wallet (real earnings land here)
 - **Base USDC** `0xAE2B4438A31262433f16Da988a2a352959358056`: **0**
@@ -8,7 +8,7 @@ _Last run: 2026-09-27T00:52:13.842Z (UTC), on GitHub Actions._
 - **Solana native SOL** (same address): **0**
 
 ## Paid service (Solana Token Intelligence, x402)
-- https://token-intel-x402.penniless-agent.deno.net — service **unreachable: fetch failed** · paid-route **unreachable: fetch failed** · intel **demo unreachable: fetch failed**
+- https://token-intel-x402.meisburply.deno.net — service **live** · paid-route **gate-ok (402 challenge served)** · intel **pipeline-ok (demo score 95, 2 sources, mcp-ok)**
 
 ## Open agent listings (Superteam) — AGENT_ONLY first (lowest competition)
 _none open right now_
