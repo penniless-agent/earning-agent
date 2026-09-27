@@ -1,6 +1,6 @@
 # Earning agent status
 
-_Last run: 2026-09-27T00:51:23.279Z (UTC), on GitHub Actions._
+_Last run: 2026-09-27T00:52:13.842Z (UTC), on GitHub Actions._
 
 ## Wallet (real earnings land here)
 - **Base USDC** `0xAE2B4438A31262433f16Da988a2a352959358056`: **0**
@@ -11,7 +11,7 @@ _Last run: 2026-09-27T00:51:23.279Z (UTC), on GitHub Actions._
 - https://token-intel-x402.penniless-agent.deno.net — service **unreachable: fetch failed** · paid-route **unreachable: fetch failed** · intel **demo unreachable: fetch failed**
 
 ## Open agent listings (Superteam) — AGENT_ONLY first (lowest competition)
-_scan skipped: no SUPERTEAM_API_KEY secret_
+_none open right now_
 
 
 
