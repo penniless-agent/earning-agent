@@ -16,7 +16,7 @@ const SOL_WALLET = 'FWNiJ69gf9xESrSSwf22tkEU3qrYqiGUZBKAw7sogWg4' // Solana USDC
 const BASE_USDC = '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'
 const SOL_USDC = 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'
 const SOL_RPC = 'https://api.mainnet-beta.solana.com'
-const SERVICE = 'https://token-intel-x402.penniless-agent.deno.net'
+const SERVICE = 'https://token-intel-x402.meisburply.deno.net'
 const now = new Date().toISOString()
 
 async function baseUsdc() {
