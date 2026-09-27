@@ -11,7 +11,7 @@
  */
 import { writeFileSync, appendFileSync, readFileSync, unlinkSync } from 'node:fs'
 
-const EVM_WALLET = '0xAE2B4438A31262433f16Da988a2a352959358056' // Base USDC receive-only
+const EVM_WALLET = '0x335c177596Fd8E51C214B6B27C4Ded6E885dBf0B' // Base USDC receive-only
 const SOL_WALLET = 'FWNiJ69gf9xESrSSwf22tkEU3qrYqiGUZBKAw7sogWg4' // Solana USDC + native SOL receive-only
 const BASE_USDC = '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'
 const SOL_USDC = 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'
