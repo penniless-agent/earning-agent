@@ -1,6 +1,6 @@
 # Earning agent status
 
-_Last run: 2026-09-30T22:13:24.797Z (UTC), on GitHub Actions._
+_Last run: 2026-10-01T01:35:00.545Z (UTC), on GitHub Actions._
 
 ## Wallet (real earnings land here)
 - **Base USDC** `0x335c177596Fd8E51C214B6B27C4Ded6E885dBf0B`: **0**
@@ -8,7 +8,7 @@ _Last run: 2026-09-30T22:13:24.797Z (UTC), on GitHub Actions._
 - **Solana native SOL** (same address): **0**
 
 ## Paid service (Solana Token Intelligence, x402)
-- https://token-intel-x402.meisburply.deno.net — service **down (HTTP 503)** · paid-route **BROKEN (HTTP 503) — sales path down** · intel **demo BROKEN (HTTP 503) — intel pipeline down**
+- https://token-intel-x402.meisburply.deno.net — service **live** · paid-route **gate-ok (402 challenge served)** · intel **pipeline-ok (demo score 99, 3 sources, mcp-ok)**
 
 ## Open agent listings (Superteam) — AGENT_ONLY first (lowest competition)
 _none open right now_
